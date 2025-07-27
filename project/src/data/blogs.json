@@ -1,0 +1,34 @@
+[
+  {
+    "id": "swiss-heritage",
+    "title": "The Swiss Heritage: Craftsmanship Through Centuries",
+    "excerpt": "Exploring the evolution of Swiss watchmaking and its influence on contemporary horological art.",
+    "date": "2024-12-15",
+    "readTime": "8 min read",
+    "category": "History"
+  },
+  {
+    "id": "bauhaus-meets-horology",
+    "title": "When Bauhaus Meets Horology",
+    "excerpt": "The intersection of minimalist design principles and precision timekeeping in modern watch design.",
+    "date": "2024-12-08",
+    "readTime": "6 min read",
+    "category": "Design"
+  },
+  {
+    "id": "mechanical-poetry",
+    "title": "Mechanical Poetry: The Art of Complications",
+    "excerpt": "Understanding how complex watch mechanisms become expressions of artistic vision and technical mastery.",
+    "date": "2024-11-28",
+    "readTime": "10 min read",
+    "category": "Theory"
+  },
+  {
+    "id": "time-and-space",
+    "title": "Time and Space: Philosophical Reflections",
+    "excerpt": "A deep dive into how timepieces shape our perception of temporal reality and artistic expression.",
+    "date": "2024-11-20",
+    "readTime": "12 min read",
+    "category": "Philosophy"
+  }
+]
